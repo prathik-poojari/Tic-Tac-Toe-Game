@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #93A8AC;
+}
+
+.header {
+    background-color: #172a3a;
+    color: white;
+    font-size: 1.5rem;
+    height: 12vh;
+    line-height: 12vh;
+    margin-bottom: 2rem;
+}
+
+.container{
+    display: flex;
+    height: 70vh;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5vmin;
+    
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem black;
+   font-size: 8vmin;
+   color: #b0413e;
+   background-color: #ffffc7;
+}
+.score-board{
+    /* margin-bottom: 2rem; */
+    height: 100vmin;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.winner{
+    font-size: 8vmin;
+    /* padding-bottom: 2vmin; */
+    color: #ffffc7;
+    
+}
+.hide{
+    display: none;
+}
+.restart{
+    /* width: 15vmin;
+    height: 15min; */
+    padding: 2vmin 2vmin;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 3vmin;
+    background-color: #191913;
+    color: white; 
+}
+.reset{
+    width: 15vmin;
+    height: 15min;
+    padding: 1vmin 1vmin;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 3vmin;
+    background-color: #191913;
+    color: white;
+}
+
