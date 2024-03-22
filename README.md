@@ -30,6 +30,6 @@ Tic-Tac-Toe is a two-player game where each player takes turns marking spaces in
 
 ## Hosted Link
 
-[Play Tic-Tac-Toe](#) - Add hosted link here.
+[Play Tic-Tac-Toe](https://prathik-poojari.github.io/Tic-Tac-Toe-Game/) 
 
 
