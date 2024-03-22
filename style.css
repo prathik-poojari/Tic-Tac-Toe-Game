@@ -48,7 +48,7 @@ body {
    background-color: #ffffc7;
 }
 .score-board{
-    /* margin-bottom: 2rem; */
+    margin-bottom: 20rem;
     height: 100vmin;
     display: flex;
     flex-wrap: wrap;
